@@ -40,7 +40,7 @@ This project is a **Real Time Weather Monitoring System** that fetches live weat
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/pat749/Real-Time-weather-monitoring-System.git
 cd weather-monitoring-system
 ```
 
